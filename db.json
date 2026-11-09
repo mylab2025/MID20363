@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "PTC RESET FUSE 60V 1.6A RADIAL",
+        "PN": "PTR060V0160-TR",
+        "MF": "EATON"
+      },
+      "MID": "MID20363",
+      "MD": "The PTR060V0160-TR is a polymeric positive temperature coefficient (PPTC) resettable fuse manufactured by Eaton (Electronics Division / Bussmann)\r\n• Max Operating Voltage: 60 VDC\n• Hold Current (\\(I_{h}\\)): 1.6 A (at +23°C)\n• Trip Current (\\(I_{t}\\)): 3.2 A\n• Max Interrupt / Fault Current (\\(I_{max}\\)): 40 A\n• Initial Resistance: ~90 mΩ to 140 mΩ (depending on spec sheet rating)\n• Power Dissipation: 1.9 W\n• Operating Temperature Range: -40°C to +85°C\n• Lead Spacing: 0.197\" (5.0 mm)",
+      "MT": "Electronic Material",
+      "MQNT": 4,
+      "MCost": 48.0,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20363%2Fmain%2FPTR060V0160-TR.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20363/main/IMG_20261109_113810.jpg"
+      ]
+    }
+  ]
+}
